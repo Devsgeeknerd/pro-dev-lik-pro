@@ -20,4 +20,4 @@ class likeiro:
         chrome_options.add_argument("--disable-gpu")
         self.driver = webdriver.Chrome(
             executable_path=r"./chromedriver.exe", options=chrome_options)
-        )
+        self.driver.set_window_size(450, 600)
