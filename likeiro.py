@@ -21,3 +21,4 @@ class likeiro:
         self.driver = webdriver.Chrome(
             executable_path=r"./chromedriver.exe", options=chrome_options)
         self.driver.set_window_size(450, 600)
+        self.wait = WebDriverWait()
