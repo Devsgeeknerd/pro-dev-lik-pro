@@ -16,3 +16,4 @@ class likeiro:
     def __init__(self):
         chrome_options = Options()
         chrome_options.add_argument("--lang=pt-BR")
+        chrome_options.add_argument("--disable-notification")
