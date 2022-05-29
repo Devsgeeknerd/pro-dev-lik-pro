@@ -1,1 +1,1 @@
-from selenium
+from selenium import webdriver
