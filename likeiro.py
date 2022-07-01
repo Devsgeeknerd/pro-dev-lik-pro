@@ -17,3 +17,4 @@ class likeiro:
     def __init__(self):
         """ Inicializa o likeiro. """
         chrome_options = Options()
+        chrome_options.add_argument("--headless")
