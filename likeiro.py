@@ -7,3 +7,5 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 import time
 import random
+
+__version__ = "0.0.1"
