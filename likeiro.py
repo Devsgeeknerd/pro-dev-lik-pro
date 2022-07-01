@@ -15,3 +15,4 @@ class likeiro:
     """ Classe inicializadora do likeiro. """
 
     def __init__(self):
+        """ Inicializa o likeiro. """
