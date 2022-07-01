@@ -16,3 +16,4 @@ class likeiro:
 
     def __init__(self):
         """ Inicializa o likeiro. """
+        chrome_options = Options()
