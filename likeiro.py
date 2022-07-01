@@ -21,3 +21,6 @@ class likeiro:
         chrome_options.add_argument("--lang=pt-BR")
         chrome_options.add_argument("--disable-gpu")
         chrome_options.add_argument("--disable-notifications")
+        self.driver = webdriver.Chrome(
+            executable_path=r"./chromedriver", options=chrome_options
+        )
