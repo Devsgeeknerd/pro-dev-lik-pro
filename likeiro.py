@@ -8,3 +8,4 @@ from selenium.webdriver.chrome.options import Options
 __version__ = "0.0.0.1"
 
 class likeiro:
+    def __init__(self):
