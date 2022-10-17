@@ -10,3 +10,4 @@ __version__ = "0.0.0.1"
 class likeiro:
     def __init__(self):
         chrome_options = Options()
+        chrome_options.add_argument("--headless")
