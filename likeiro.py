@@ -3,4 +3,4 @@
 
 # Importando as bibliotecas necessárias.
 from selenium import webdriver
-from selenium.webdriver.chrome.options
+from selenium.webdriver.chrome.options import Options
