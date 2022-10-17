@@ -13,3 +13,4 @@ class likeiro:
         chrome_options.add_argument("--headless")
         chrome_options.add_argument("--lang=pt-BR")
         chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--disable-notifications")
