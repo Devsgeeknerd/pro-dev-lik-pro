@@ -17,3 +17,4 @@ class likeiro:
 
 
 test = likeiro()
+test.start()
