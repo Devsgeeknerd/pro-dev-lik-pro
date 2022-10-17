@@ -4,3 +4,5 @@
 # Importando as bibliotecas necessárias.
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+
+__version__ = "0.0.0.1"
