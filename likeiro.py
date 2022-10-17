@@ -2,4 +2,4 @@
 # Fazer as mudanças necessárias de acordo com a rede social preferida.
 
 # Importando as bibliotecas necessárias.
-from selenium
+from selenium import webdriver
