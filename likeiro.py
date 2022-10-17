@@ -4,7 +4,7 @@
 # Importando as bibliotecas necessárias.
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by
+from selenium.webdriver.common.by import By
 
 __version__ = "0.0.0.1"
 
