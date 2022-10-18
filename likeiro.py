@@ -35,6 +35,7 @@ class likeiro:
                 NoSuchElementException, ElementNotVisibleException, ElementNotSelectableException
             ]
         )
+    def data_input(self):
 
 test = likeiro()
 test.start()
