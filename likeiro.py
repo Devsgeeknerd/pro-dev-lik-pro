@@ -51,4 +51,4 @@ class likeiro:
         except ValueError:
             print("Dados inválidos")
 test = likeiro()
-test.start()
+test.home()
