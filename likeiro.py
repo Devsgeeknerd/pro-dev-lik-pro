@@ -68,7 +68,7 @@ class likeiro:
             time.sleep(3)
 
             for letter in user:
-
+                user.send_keys(letter)
 
 test = likeiro()
 test.home()
