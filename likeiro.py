@@ -39,6 +39,6 @@ class likeiro:
         self.user = str(input("Usuário: "))
         self.valid_information = True
         try:
-
+            while self.valid_information == False:
 test = likeiro()
 test.start()
