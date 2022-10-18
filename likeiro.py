@@ -43,5 +43,6 @@ class likeiro:
                 self.data_input()
             if self.user == " ":
                 print("Usuário não encontrado!")
+                self.data_input()
 test = likeiro()
 test.start()
