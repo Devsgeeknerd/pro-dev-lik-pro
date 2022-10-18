@@ -49,5 +49,6 @@ class likeiro:
             )
             self.likes = int(input("Quantos likes você deseja? "))
         except ValueError:
+            print("Dados inválidos")
 test = likeiro()
 test.start()
