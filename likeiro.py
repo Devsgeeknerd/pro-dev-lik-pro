@@ -75,5 +75,7 @@ class likeiro:
             password.click()
             time.sleep(3)
 
+            for letter in password:
+
 test = likeiro()
 test.home()
