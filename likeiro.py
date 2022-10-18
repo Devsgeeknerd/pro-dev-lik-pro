@@ -50,5 +50,6 @@ class likeiro:
             self.likes = int(input("Quantos likes você deseja? "))
         except ValueError:
             print("Dados inválidos")
+    def home(self):
 test = likeiro()
 test.home()
