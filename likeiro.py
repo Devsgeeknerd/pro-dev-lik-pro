@@ -61,7 +61,7 @@ class likeiro:
 
     def login(self, user, password):
         try:
-            user = self.wait.until()
+            user = self.wait.until(EC.element_to_be_clickable())
 
 test = likeiro()
 test.home()
