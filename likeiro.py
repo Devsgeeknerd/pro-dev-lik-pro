@@ -61,7 +61,9 @@ class likeiro:
 
     def login(self, user, password):
         try:
-            user = self.wait.until(EC.element_to_be_clickable())
+            user = self.wait.until(EC.element_to_be_clickable(
+                (By.XPATH, f"//input[@name='username']")
+            ))
 
 test = likeiro()
 test.home()
