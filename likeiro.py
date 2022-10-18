@@ -62,8 +62,7 @@ class likeiro:
     def login(self, user, password):
         try:
             user = self.wait.until(EC.element_to_be_clickable(
-                (By.XPATH, f"//input[@name='username']")
-            ))
+                (By.XPATH, f"//input[@name='username']")))
             user.click()
             time.sleep(3)
 
@@ -71,7 +70,8 @@ class likeiro:
                 user.send_keys(letter)
                 time.sleep(random.randint(1, 9) / 60)
 
-            password = self.wait.until(EC.element_to_be_clickable())
+            password = self.wait.until(EC.element_to_be_clickable(
+                (By.XPATH, f"//input[@name='password']")))
 
 test = likeiro()
 test.home()
