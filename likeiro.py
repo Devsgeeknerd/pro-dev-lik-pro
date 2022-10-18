@@ -48,5 +48,6 @@ class likeiro:
                 prompt="senha: ", stream=None
             )
             self.likes = int(input("Quantos likes você deseja? "))
+        except ValueError:
 test = likeiro()
 test.start()
