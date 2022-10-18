@@ -31,7 +31,9 @@ class likeiro:
             driver=self.driver,
             timeout=12,
             poll_frequency=1,
-            ignored_exceptions=[]
+            ignored_exceptions=[
+                NoSuchElementException,
+            ]
         )
 
 test = likeiro()
