@@ -51,5 +51,6 @@ class likeiro:
         except ValueError:
             print("Dados inválidos")
     def home(self):
+        self.driver.get("https://www.instagram.com/")
 test = likeiro()
 test.home()
