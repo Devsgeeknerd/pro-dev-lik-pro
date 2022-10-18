@@ -59,6 +59,8 @@ class likeiro:
         self.like(self.likes)
         self.opinion()
 
-    def login():
+    def login(self, user, password):
+        try:
+
 test = likeiro()
 test.home()
