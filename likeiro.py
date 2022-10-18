@@ -29,6 +29,7 @@ class likeiro:
         self.driver.set_window_size(450, 768)
         self.wait = WebDriverWait(
             driver=self.driver,
+            timeout=12,
         )
 
 test = likeiro()
