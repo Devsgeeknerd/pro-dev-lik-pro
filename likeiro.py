@@ -55,5 +55,6 @@ class likeiro:
         self.login(self.user, self.password)
         self.notice()
         self.like(self.likes)
+        self.opinion()
 test = likeiro()
 test.home()
