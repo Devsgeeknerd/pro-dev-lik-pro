@@ -67,5 +67,8 @@ class likeiro:
             user.click()
             time.sleep(3)
 
+            for letter in user:
+
+
 test = likeiro()
 test.home()
