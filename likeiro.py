@@ -69,6 +69,7 @@ class likeiro:
 
             for letter in user:
                 user.send_keys(letter)
+                time.sleep(random.randint(1, 9) / 60)
 
 test = likeiro()
 test.home()
