@@ -54,5 +54,6 @@ class likeiro:
         self.driver.get("https://www.instagram.com/")
         self.login(self.user, self.password)
         self.notice()
+        self.like(self.likes)
 test = likeiro()
 test.home()
