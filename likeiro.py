@@ -71,5 +71,7 @@ class likeiro:
                 user.send_keys(letter)
                 time.sleep(random.randint(1, 9) / 60)
 
+            password = self.wait.until()
+
 test = likeiro()
 test.home()
