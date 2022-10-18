@@ -30,6 +30,7 @@ class likeiro:
         self.wait = WebDriverWait(
             driver=self.driver,
             timeout=12,
+            poll_frequency=1,
         )
 
 test = likeiro()
