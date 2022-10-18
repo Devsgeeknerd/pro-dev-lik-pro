@@ -35,6 +35,7 @@ class likeiro:
                 NoSuchElementException, ElementNotVisibleException, ElementNotSelectableException
             ]
         )
+
     def data_input(self):
         self.user = str(input("Usuário: "))
         self.valid_information = True
@@ -50,11 +51,14 @@ class likeiro:
             self.likes = int(input("Quantos likes você deseja? "))
         except ValueError:
             print("Dados inválidos")
+
     def home(self):
         self.driver.get("https://www.instagram.com/")
         self.login(self.user, self.password)
         self.notice()
         self.like(self.likes)
         self.opinion()
+
+    def login():
 test = likeiro()
 test.home()
