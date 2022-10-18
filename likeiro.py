@@ -52,5 +52,6 @@ class likeiro:
             print("Dados inválidos")
     def home(self):
         self.driver.get("https://www.instagram.com/")
+        self.login(self.user, self.password)
 test = likeiro()
 test.home()
