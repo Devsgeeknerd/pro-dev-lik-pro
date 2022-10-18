@@ -65,5 +65,7 @@ class likeiro:
                 (By.XPATH, f"//input[@name='username']")
             ))
 
+            user.click()
+
 test = likeiro()
 test.home()
