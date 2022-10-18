@@ -72,6 +72,7 @@ class likeiro:
 
             password = self.wait.until(EC.element_to_be_clickable(
                 (By.XPATH, f"//input[@name='password']")))
+            password.click()
 
 test = likeiro()
 test.home()
