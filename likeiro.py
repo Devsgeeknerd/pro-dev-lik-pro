@@ -44,6 +44,8 @@ class likeiro:
             if self.user == " ":
                 print("Usuário não encontrado!")
                 self.data_input()
-            self.password = getpass.getpass()
+            self.password = getpass.getpass(
+                prompt="senha: ", stream=None
+            )
 test = likeiro()
 test.start()
