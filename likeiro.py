@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import *
+from selenium.common.exceptions import NoSuchElementException, ElementNotVisibleException
 import random
 import time
 import getpass
@@ -32,7 +32,7 @@ class likeiro:
             timeout=12,
             poll_frequency=1,
             ignored_exceptions=[
-                NoSuchElementException,
+                NoSuchElementException, ElementNotVisibleException
             ]
         )
 
