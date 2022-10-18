@@ -37,6 +37,7 @@ class likeiro:
         )
     def data_input(self):
         self.user = str(input("Usuário: "))
+        self.valid_information = True
 
 test = likeiro()
 test.start()
