@@ -41,5 +41,6 @@ class likeiro:
         try:
             while self.valid_information == False:
                 self.data_input()
+            if self.user == " ":
 test = likeiro()
 test.start()
