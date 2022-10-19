@@ -111,5 +111,7 @@ class likeiro:
         try:
             self.contagem = 0
 
+            for i in range(1, likes + 1):
+
 test = likeiro()
 test.home()
