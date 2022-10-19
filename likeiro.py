@@ -94,5 +94,7 @@ class likeiro:
         except Exception:
             print("Dados inválidos, abra novamente!")
 
+    def notice(self):
+
 test = likeiro()
 test.home()
