@@ -120,6 +120,7 @@ class likeiro:
                 if like.is_selected() == False:
                     like.click()
                     print("Ja deixei meu like!!!")
+                    time.sleep(6)
 
 test = likeiro()
 test.home()
