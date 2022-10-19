@@ -91,5 +91,8 @@ class likeiro:
                 pass
             time.sleep(3)
 
+        except Exception:
+            print("Dados inválidos, abra novamente!")
+
 test = likeiro()
 test.home()
