@@ -118,6 +118,8 @@ class likeiro:
                 self.driver.execute_script("window.scrollBy(0, 1000);")
 
                 if like.is_selected() == False:
+                    like.click()
+                    print("Ja deixei meu like!!!")
 
 test = likeiro()
 test.home()
