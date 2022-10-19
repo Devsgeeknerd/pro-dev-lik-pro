@@ -109,7 +109,7 @@ class likeiro:
 
     def like(self, likes):
         try:
-            self.contagem = 0
+            self.counting = 0
 
             for i in range(1, likes + 1):
                 like = self.wait.until(EC.element_to_be_clickable(
@@ -124,7 +124,8 @@ class likeiro:
 
                 elif like.is_selected() == True:
                     pass
-                print("Ja tinha meu like!!!")
+                    print("Ja tinha meu like!!!")
+
 
 test = likeiro()
 test.home()
