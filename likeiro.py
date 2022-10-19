@@ -39,15 +39,19 @@ class likeiro:
     def data_input(self):
         self.user = str(input("Usuário: "))
         self.valid_information = True
+
         try:
             while self.valid_information == False:
                 self.data_input()
+
             if self.user == " ":
                 print("Usuário não encontrado!")
                 self.data_input()
+
             self.password = getpass.getpass(
                 prompt="senha: ", stream=None
             )
+
             self.likes = int(input("Quantos likes você deseja? "))
         except ValueError:
             print("Dados inválidos")
