@@ -122,5 +122,7 @@ class likeiro:
                     print("Ja deixei meu like!!!")
                     time.sleep(6)
 
+                elif like.is_selected() == True:
+
 test = likeiro()
 test.home()
