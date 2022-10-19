@@ -84,6 +84,7 @@ class likeiro:
             skip_login = self.wait.until(EC.element_to_be_clickable(
                 (By.XPATH, f"//button[@class='a8gzjk']")))
 
+            if skip_login is not None:
 
 test = likeiro()
 test.home()
