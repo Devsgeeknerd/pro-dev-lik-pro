@@ -129,6 +129,7 @@ class likeiro:
                     self.counting += 1
 
         except Exception:
+            print("Algo deu errado, abra novamente!")
 
 test = likeiro()
 test.home()
