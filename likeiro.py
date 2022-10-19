@@ -126,6 +126,7 @@ class likeiro:
                     pass
                     print("Ja tinha meu like!!!")
 
+                    self.counting += 1
 
 test = likeiro()
 test.home()
