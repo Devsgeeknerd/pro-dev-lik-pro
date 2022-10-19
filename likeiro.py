@@ -85,6 +85,7 @@ class likeiro:
                 (By.XPATH, f"//button[@class='a8gzjk']")))
 
             if skip_login is not None:
+                skip_login.click()
 
 test = likeiro()
 test.home()
