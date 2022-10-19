@@ -112,7 +112,8 @@ class likeiro:
             self.contagem = 0
 
             for i in range(1, likes + 1):
-                like = self.wait.until()
+                like = self.wait.until(EC.element_to_be_clickable(
+                    (By.XPATH, f"//button='br93n'")))
 
 test = likeiro()
 test.home()
