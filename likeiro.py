@@ -81,7 +81,8 @@ class likeiro:
             password.send_keys(Keys.ENTER)
             time.sleep(3)
 
-            skip_login = self.wait.until()
+            skip_login = self.wait.until(EC.element_to_be_clickable(
+                (By.XPATH, f"//button[@class='a8gzjk']")))
 
 
 test = likeiro()
