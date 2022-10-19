@@ -78,8 +78,9 @@ class likeiro:
             for letter in password:
                 password.send_keys(letter)
                 time.sleep(random.randint(1, 6) / 45)
-                password.send_keys(Keys.ENTER)
-                time.sleep(3)
+            password.send_keys(Keys.ENTER)
+            time.sleep(3)
+
 
 test = likeiro()
 test.home()
