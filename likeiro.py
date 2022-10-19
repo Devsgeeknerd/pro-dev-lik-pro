@@ -128,5 +128,7 @@ class likeiro:
 
                     self.counting += 1
 
+        except Exception:
+
 test = likeiro()
 test.home()
