@@ -89,6 +89,7 @@ class likeiro:
 
             if skip_login is None:
                 pass
+            time.sleep(3)
 
 test = likeiro()
 test.home()
