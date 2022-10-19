@@ -101,6 +101,7 @@ class likeiro:
 
     def notice(self):
         print("Login feito com sucesso!!!")
+        print("Vamos começar em breve!!!")
 
 test = likeiro()
 test.home()
