@@ -104,6 +104,7 @@ class likeiro:
         print("Vamos começar em breve!!!")
 
         for i in range(1, 6):
+            time.sleep(3)
 
 test = likeiro()
 test.home()
