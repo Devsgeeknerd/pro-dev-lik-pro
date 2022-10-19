@@ -115,5 +115,7 @@ class likeiro:
                 like = self.wait.until(EC.element_to_be_clickable(
                     (By.XPATH, f"//button='br93n'")))
 
+                self.driver.execute_script("window.scrollBy(0, 1000);")
+
 test = likeiro()
 test.home()
