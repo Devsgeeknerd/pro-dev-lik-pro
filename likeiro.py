@@ -124,6 +124,7 @@ class likeiro:
 
                 elif like.is_selected() == True:
                     pass
+                print("Ja tinha meu like!!!")
 
 test = likeiro()
 test.home()
