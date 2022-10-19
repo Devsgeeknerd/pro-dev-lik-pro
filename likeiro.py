@@ -108,6 +108,8 @@ class likeiro:
             print(f"Iniciando em {i} / 5")
 
     def like(self, likes):
+        try:
+            self.contagem = 0
 
 test = likeiro()
 test.home()
