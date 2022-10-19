@@ -81,6 +81,8 @@ class likeiro:
             password.send_keys(Keys.ENTER)
             time.sleep(3)
 
+            skip_login = self.wait.until()
+
 
 test = likeiro()
 test.home()
