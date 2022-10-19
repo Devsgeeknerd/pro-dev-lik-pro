@@ -107,5 +107,7 @@ class likeiro:
             time.sleep(3)
             print(f"Iniciando em {i} / 5")
 
+    def like(self):
+
 test = likeiro()
 test.home()
