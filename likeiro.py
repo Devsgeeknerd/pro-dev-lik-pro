@@ -112,6 +112,7 @@ class likeiro:
             self.contagem = 0
 
             for i in range(1, likes + 1):
+                like = self.wait.until()
 
 test = likeiro()
 test.home()
