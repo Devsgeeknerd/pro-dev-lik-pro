@@ -88,6 +88,7 @@ class likeiro:
                 skip_login.click()
 
             if skip_login is None:
+                pass
 
 test = likeiro()
 test.home()
