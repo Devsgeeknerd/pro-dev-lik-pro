@@ -123,6 +123,7 @@ class likeiro:
                     time.sleep(6)
 
                 elif like.is_selected() == True:
+                    pass
 
 test = likeiro()
 test.home()
