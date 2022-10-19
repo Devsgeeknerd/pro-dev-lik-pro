@@ -105,6 +105,7 @@ class likeiro:
 
         for i in range(1, 6):
             time.sleep(3)
+            print(f"Iniciando em {i} / 5")
 
 test = likeiro()
 test.home()
