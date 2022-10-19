@@ -103,5 +103,7 @@ class likeiro:
         print("Login feito com sucesso!!!")
         print("Vamos começar em breve!!!")
 
+        for i in range(1, 6):
+
 test = likeiro()
 test.home()
