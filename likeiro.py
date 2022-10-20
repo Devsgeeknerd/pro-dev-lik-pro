@@ -49,7 +49,7 @@ class likeiro:
                 self.data_input()
 
             self.password = getpass.getpass(
-                prompt="senha: ", stream=None
+                prompt="password: ", stream=None
             )
 
             self.likes = int(input("Quantos likes você deseja? "))
