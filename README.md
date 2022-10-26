@@ -25,10 +25,10 @@
 <!-- ### Foto da Tela -->
 
 <!-- Links -->
-### Links
+<!-- ### Links -->
 
 <!-- My Process -->
-<!-- ## Meu Processo -->
+## Meu Processo
 
 <!-- Built with -->
 <!-- ### Construido com -->
