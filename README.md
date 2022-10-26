@@ -14,6 +14,7 @@
   * [O que Aprendi](#0-que-aprendi)
   * [Desenvolvimento Continuo](#desenvolvimento-continuo)
   * [Recursos Uteis](#recursos-uteis)
+* [Autores](#autores)
 
 <!-- Overview-->
 <!-- ## Vista por Cima -->
