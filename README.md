@@ -6,17 +6,12 @@
 <!-- Table of Contents -->
 ## Table de Conteúdos
 
-* [Vista por cima](#vista-pro-cima)
-  * [Foto da tela](#foto-da-tela)
-  * [Links](#links)
-* [Meu Processo](#meu-processo)
-  * [Construido com](#construido-com)
-  * [O que Aprendi](#0-que-aprendi)
-  * [Desenvolvimento Continuo](#desenvolvimento-continuo)
-  * [Recursos Uteis](#recursos-uteis)
-* [Autores](#autores)
-* [Agradecimentos](#agradecimentos)
-* [Informações](#informações)
+- [Likeiro](#likeiro)
+  - [Table de Conteúdos](#table-de-conteúdos)
+  - [Meu Processo](#meu-processo)
+    - [Construido com](#construido-com)
+  - [Autores](#autores)
+  - [Informações](#informações)
 
 <!-- Overview-->
 <!-- ## Vista por Cima -->
@@ -43,7 +38,7 @@
 <!-- ### Recursos Uteis -->
 
 <!-- Authors -->
-<!-- ## Autores -->
+## Autores
 
 <!-- Acknowledgments -->
 <!-- ## Agradecimentos -->
