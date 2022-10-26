@@ -31,7 +31,7 @@
 ## Meu Processo
 
 <!-- Built with -->
-<!-- ### Construido com -->
+### Construido com
 
 <!-- What I Learned -->
 <!-- ### O que Aprendi -->
