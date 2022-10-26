@@ -13,6 +13,7 @@
   * [Construido com](#construido-com)
   * [O que Aprendi](#0-que-aprendi)
   * [Desenvolvimento Continuo](#desenvolvimento-continuo)
+  * [Recursos Uteis](#recursos-uteis)
 
 <!-- Overview-->
 <!-- ## Vista por Cima -->
