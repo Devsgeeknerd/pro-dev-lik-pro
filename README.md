@@ -3,22 +3,22 @@
 
 <!-- ***Conteúdo do Projeto:*** -->
 
+<!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
-<!-- * [Vista por cima](#vista-pro-cima) -->
-  <!-- * [Foto da tela](#foto-da-tela) -->
-  <!-- * [Links](#links) -->
-- [Likeiro](#likeiro)
+<!-- - [Vista por cima](#vista-pro-cima) -->
+  <!-- - [Foto da tela](#foto-da-tela) -->
+  <!-- - [Links](#links) -->
   - [Meu Processo](#meu-processo)
     - [Construido com](#construido-com)
   - [Autores](#autores)
   - [Informações](#informações)
-  <!-- * [O que Aprendi](#0-que-aprendi) -->
-  <!-- * [Desenvolvimento Continuo](#desenvolvimento-continuo) -->
-  <!-- * [Recursos Uteis](#recursos-uteis) -->
-* [Autores](#autores)
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+  <!-- - [O que Aprendi](#0-que-aprendi) -->
+  <!-- - [Desenvolvimento Continuo](#desenvolvimento-continuo) -->
+  <!-- - [Recursos Uteis](#recursos-uteis) -->
+- [Autores](#autores)
+<!-- - [Agradecimentos](#agradecimentos) -->
+- [Informações](#informações)
 
 <!-- Overview-->
 <!-- ## Vista por Cima -->
@@ -35,6 +35,8 @@
 <!-- Built with -->
 ### Construido com
 
+* [Python](https://www.python.org)
+
 <!-- What I Learned -->
 <!-- ### O que Aprendi -->
 
@@ -46,6 +48,8 @@
 
 <!-- Authors -->
 ## Autores
+
+* [Paulo Vanderley](https://geekexpresssolutions.com.br)
 
 <!-- Acknowledgments -->
 <!-- ## Agradecimentos -->
