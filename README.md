@@ -16,6 +16,7 @@
   * [Recursos Uteis](#recursos-uteis)
 * [Autores](#autores)
 * [Agradecimentos](#agradecimentos)
+* [Informações](#informações)
 
 <!-- Overview-->
 <!-- ## Vista por Cima -->
