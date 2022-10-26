@@ -11,8 +11,6 @@
   <!-- - [Links](#links) -->
   - [Meu Processo](#meu-processo)
     - [Construido com](#construido-com)
-  - [Autores](#autores)
-  - [Informações](#informações)
   <!-- - [O que Aprendi](#0-que-aprendi) -->
   <!-- - [Desenvolvimento Continuo](#desenvolvimento-continuo) -->
   <!-- - [Recursos Uteis](#recursos-uteis) -->
