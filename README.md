@@ -15,6 +15,7 @@
   * [Desenvolvimento Continuo](#desenvolvimento-continuo)
   * [Recursos Uteis](#recursos-uteis)
 * [Autores](#autores)
+* [Agradecimentos](#agradecimentos)
 
 <!-- Overview-->
 <!-- ## Vista por Cima -->
