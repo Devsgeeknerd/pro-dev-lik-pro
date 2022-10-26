@@ -8,3 +8,5 @@
 &nbsp;
 ![Forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-lik?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
+![code size](https://img.shields.io/github/languages/code-size/Devsgeeknerd/pro-lik?style=p&label=Tamanho&labelColor=f9e64f&color=007bff& "Tamanho do Repositório")
+&nbsp;
