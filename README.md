@@ -1,22 +1,19 @@
-<!-- Titulo -->
+<!-- Título -->
 # Likeiro
 
-<!-- ***Conteúdo do Projeto:*** -->
+***Conteúdo do Projeto:***
+
+Aplicar os conhecimentos no curso básico.
 
 <!-- Table of Contents -->
-<!-- ## Tabela de Conteúdos -->
+## Tabela de Conteúdos
 
-<!-- - [Vista por cima](#vista-pro-cima) -->
-  <!-- - [Foto da tela](#foto-da-tela) -->
-  <!-- - [Links](#links) -->
+- [Likeiro](/likeiro.py)
+  - [Tabela de Conteúdos](#tabela-de-conteúdos)
   - [Meu Processo](#meu-processo)
     - [Construido com](#construido-com)
-  <!-- - [O que Aprendi](#0-que-aprendi) -->
-  <!-- - [Desenvolvimento Continuo](#desenvolvimento-continuo) -->
-  <!-- - [Recursos Uteis](#recursos-uteis) -->
-- [Autores](#autores)
-<!-- - [Agradecimentos](#agradecimentos) -->
-- [Informações](#informações)
+  - [Autores](#autores)
+  - [Informações](#informações)
 
 <!-- Overview-->
 <!-- ## Vista por Cima -->
@@ -33,7 +30,7 @@
 <!-- Built with -->
 ### Construido com
 
-* [Python](https://www.python.org)
+- [Python](https://www.python.org)
 
 <!-- What I Learned -->
 <!-- ### O que Aprendi -->
@@ -45,9 +42,10 @@
 <!-- ### Recursos Uteis -->
 
 <!-- Authors -->
+
 ## Autores
 
-* [Paulo Vanderley](https://geekexpresssolutions.com.br)
+- [Paulo Vanderley](https://geekexpresssolutions.com.br)
 
 <!-- Acknowledgments -->
 <!-- ## Agradecimentos -->
@@ -55,16 +53,16 @@
 <!-- Information -->
 ## Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-lik&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-dev-lik&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de seguidores")
 &nbsp;
-![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-lik?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-dev-lik?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-lik?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-dev-lik?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-lik?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-dev-lik?style=p&label=Bifurcações&labelColor=f9e64f&color=008000)
 &nbsp;
-![code size](https://img.shields.io/github/languages/code-size/Devsgeeknerd/pro-lik?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
+![Code Size](https://img.shields.io/github/languages/code-size/Devsgeeknerd/pro-dev-lik?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Código")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/pro-lik?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/pro-dev-lik?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
