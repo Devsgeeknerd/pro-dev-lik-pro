@@ -2,6 +2,20 @@
 # Devslike
 
 ***Conteúdo do Projeto:***
+
+> [!IMPORTANT]\
+> **Boas práticas e sugestões de melhorias**:
+>
+> * O script parece ter alguns problemas lógicos, como um loop infinito no método data_input e um condicional ineficaz no método login.
+> * Boas práticas incluem adicionar exceções mais específicas nos blocos except para facilitar a depuração de problemas.
+> * Evite usar time.sleep para esperas estáticas; prefira esperas explícitas com WebDriverWait.
+> * O script interage diretamente com elementos da página usando XPath, o que pode ser frágil se a estrutura da página mudar.
+> * Usar identificadores mais estáveis seria preferível.
+> * As credenciais do usuário (nome e senha) são tratadas diretamente no código, o que pode ser arriscado.
+> * Em produção, considere métodos mais seguros, como armazenamento em variáveis de ambiente.
+> * Este script usa automação para interagir com sites, o que pode violar os Termos de Serviço de algumas plataformas.
+> * Certifique-se de estar em conformidade com as políticas da plataforma antes de usar tal script.
+
 <!-- Informações -->
 ## &#8505; Informações
 

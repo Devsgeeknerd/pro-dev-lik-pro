@@ -1,7 +1,6 @@
 # Curtir fotos e videos no feed do Instagram, Facebook, Twitter e LinkedIn.
 # Fazer as mudanças necessárias de acordo com a rede social preferida.
 
-# Importando as bibliotecas necessárias.
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -16,7 +15,7 @@ import os
 
 __version__ = "0.0.0.1"
 
-class likeiro:
+class devslike:
     def __init__(self):
         chrome_options = Options()
         chrome_options.add_argument("--headless")
@@ -131,5 +130,5 @@ class likeiro:
         except Exception:
             print("Algo deu errado, abra novamente!")
 
-test = likeiro()
+test = devslike()
 test.home()
